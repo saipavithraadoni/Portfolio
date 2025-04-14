@@ -525,7 +525,16 @@ button:focus {
   vertical-align: middle !important;
   text-align: center !important;
 }
-
+.toolstack-container {
+  display: flex;
+  flex-direction: row; 
+  flex-wrap: nowrap;
+  overflow-x: auto; 
+  overflow-y: hidden; 
+  padding-bottom: 15px; 
+  gap: 20px; 
+  justify-content: center; 
+}
 
 .tech-icons {
   font-size: 4.5em !important;

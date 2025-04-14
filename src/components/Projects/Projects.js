@@ -139,7 +139,7 @@ function Projects() {
                         whiteSpace: "nowrap"  
                       }}
                     >
-                      Learn more about this project
+                        View on GITHUB
                     </Button>
                     
                     )}

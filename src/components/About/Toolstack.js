@@ -11,7 +11,7 @@ import {
 
 function Toolstack() {
   return (
-    <div style={{ display: "flex", overflowX: "auto", paddingBottom: "30px", gap: "20px", justifyContent: "center" }}>
+    <div className="toolstack-container">
       {[
         { icon: <SiVisualstudiocode />, name: "VS Code" },
         { icon: <SiAndroidstudio />, name: "Android Studio" },

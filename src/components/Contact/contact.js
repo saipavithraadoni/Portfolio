@@ -35,7 +35,7 @@ function Contact() {
                         href="tel:+4407765830123"
                         style={{ color: "white", textDecoration: "underline" }}
                         >
-                        (+44) 07765830123
+                        (+44) 7765830123
                         </a>
                     </span>
                     </h5>
